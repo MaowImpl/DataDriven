@@ -1,0 +1,7 @@
+{
+  "id": "datadriven:json_block",
+  "components": {
+    "minecraft:material": "WOOD",
+    "minecraft:sound_group": "WOOD"
+  }
+}

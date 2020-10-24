@@ -1,0 +1,7 @@
+{
+  "id": "datadriven:json_block",
+  "components": {
+    "minecraft:associated_block": "datadriven:json_block",
+    "minecraft:item_group": "datadriven:item_group"
+  }
+}

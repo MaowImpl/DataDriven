@@ -1,0 +1,6 @@
+{
+  "translationKey": "key.datadriven.json_keybinding",
+  "categoryTranslationKey": "keyCategory.datadriven.json_key_category",
+  "type": "KEYSYM",
+  "keyCode": "x"
+}

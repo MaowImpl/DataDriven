@@ -1,0 +1,9 @@
+{
+  "id": "datadriven:json_item",
+  "components": {
+    "minecraft:item_group": "datadriven:item_group",
+    "minecraft:rarity": "RARE",
+    "minecraft:max_count": "1",
+    "minecraft:is_fireproof": "true"
+  }
+}

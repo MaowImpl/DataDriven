@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "datadriven",
+  "version": "${version}",
+  "name": "DataDriven",
+  "description": "A cursed convenience.",
+  "authors": [
+    "Maow"
+  ],
+  "license": "MIT",
+  "icon": "assets/datadriven/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "maow.datadriven.DataDriven"
+    ],
+    "client": [
+      "maow.datadriven.DataDrivenClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.10.3+build.211",
+    "fabric": "*",
+    "minecraft": "1.16.3"
+  }
+}

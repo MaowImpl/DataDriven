@@ -1,0 +1,12 @@
+{
+  "block.datadriven.json_block": "Json Block",
+  "item.datadriven.json_block": "Json Block",
+  "itemGroup.datadriven.item_group": "Item Group",
+  "item.datadriven.json_item": "Json Item",
+  "enchantment.datadriven.json_enchantment": "Json Enchantment",
+  "effect.datadriven.json_status_effect": "Json Status Effect",
+  "item.minecraft.potion.effect.json_potion_1": "Potion of Json Status Effect",
+  "item.minecraft.potion.effect.json_potion_2": "Potion of Json Status Effect",
+  "key.datadriven.json_keybinding": "Json Keybinding",
+  "keyCategory.datadriven.json_key_category": "Json Key Category"
+}

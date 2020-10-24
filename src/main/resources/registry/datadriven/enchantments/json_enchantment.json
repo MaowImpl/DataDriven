@@ -1,0 +1,14 @@
+{
+  "id": "datadriven:json_enchantment",
+  "weight": "COMMON",
+  "type": "WEAPON",
+  "slotTypes": [
+    "MAINHAND",
+    "OFFHAND"
+  ],
+  "components": {
+    "minecraft:min_power": "2",
+    "minecraft:max_level": "1",
+    "datadriven:multiply_by_level": "true"
+  }
+}
